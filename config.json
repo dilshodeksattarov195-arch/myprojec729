@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterupdate",
+        "uuid": 4987089,
+        "checksum": "y97ili"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
